@@ -1,5 +1,5 @@
 {
-  "payload": "{\"schema_version\":1,\"channel\":\"internal\",\"release\":{\"version\":\"0.1.0-beta.1\",\"published_at\":\"2026-09-16T10:22:14Z\",\"minimum_supported_version\":null,\"minimum_updater_schema\":null},\"targets\":[{\"os\":\"windows\",\"arch\":\"x86_64\",\"package_type\":\"inno_setup\",\"url\":\"https://github.com/ONGONGDT/opdf-releases/releases/download/v0.1.0-beta.1/OPDF-Setup-0.1.0-beta.1-windows-x86_64.exe\",\"size\":17838703,\"sha256\":\"274e54415bcd59dd717ec8ef596a5c4532714e24c4cbd52634566bc13e7cbedb\",\"publisher_id\":\"release-key-2026-a\"}],\"release_notes_url\":null}",
+  "payload": "{\"schema_version\":1,\"channel\":\"internal\",\"release\":{\"version\":\"0.1.0-beta.1\",\"published_at\":\"2026-09-16T11:13:02Z\",\"minimum_supported_version\":null,\"minimum_updater_schema\":null},\"targets\":[{\"os\":\"windows\",\"arch\":\"x86_64\",\"package_type\":\"inno_setup\",\"url\":\"https://github.com/ONGONGDT/opdf-releases/releases/download/v0.1.0-beta.1/OPDF-Setup-0.1.0-beta.1-windows-x86_64.exe\",\"size\":17839059,\"sha256\":\"da9cad8e4f28c00c2aa600f41a9e33a3485b294afafd943c900d4a04b01dd630\",\"publisher_id\":\"release-key-2026-a\"}],\"release_notes_url\":null}",
   "key_id": "release-key-2026-a",
-  "signature": "30cfdc18bd8eace17338c2d6c1458a29f96839dd1508b8c0a96ae9a31d2faa1e9c526b61c5e6cce57b22fefe1c780656cbc8ca4a60d3d6d9952fbc3c109c840d"
+  "signature": "069eb92eea0d00aca79ae5f97d45a68a470e868d86af18fb92be94245ca38eeac41d33705a28e56df98a7899b9db1bf194d046ee208a294ebc576f1b64303908"
 }
