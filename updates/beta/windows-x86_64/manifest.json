@@ -1,5 +1,5 @@
 {
-  "payload": "{\"schema_version\":1,\"channel\":\"beta\",\"release\":{\"version\":\"0.1.0-beta.2\",\"published_at\":\"2026-09-16T12:37:41Z\",\"minimum_supported_version\":null,\"minimum_updater_schema\":null},\"targets\":[{\"os\":\"windows\",\"arch\":\"x86_64\",\"package_type\":\"inno_setup\",\"url\":\"https://github.com/ONGONGDT/opdf-releases/releases/download/v0.1.0-beta.2/OPDF-Setup-0.1.0-beta.2-windows-x86_64.exe\",\"size\":17809425,\"sha256\":\"914a8c8433374ebf42329b5996e9b2c69047e2d5c6e2b85e81ebd01d328927b3\",\"publisher_id\":\"release-key-2026-a\"}],\"release_notes_url\":null}",
+  "payload": "{\"schema_version\":1,\"channel\":\"beta\",\"release\":{\"version\":\"0.1.0-beta.3\",\"published_at\":\"2026-09-21T12:24:30Z\",\"minimum_supported_version\":\"0.1.0-beta.1\",\"minimum_updater_schema\":null},\"targets\":[{\"os\":\"windows\",\"arch\":\"x86_64\",\"package_type\":\"inno_setup\",\"url\":\"https://github.com/ONGONGDT/opdf-releases/releases/download/v0.1.0-beta.3/360PDF-Setup-0.1.0-beta.3-windows-x86_64.exe\",\"size\":17515171,\"sha256\":\"d83c4413136d72a4d773ef0cc308ce13a7cac150bc0890b57fcb4f338fa6cb12\",\"publisher_id\":\"release-key-2026-a\"}],\"release_notes_url\":null}",
   "key_id": "release-key-2026-a",
-  "signature": "91e7632cee5367bbba07e9711cd08897512b70d56558b53b21f2a96ba1b5175ef1bbdcc92955e9e154b6ddccfc2d2202d45dc221eafed65fc923232ebca34f0e"
+  "signature": "6af8723eefdc572af983331d8e5c6ae22fc1f077f1c6f1dcd6def4b29fcd7cab48754c8cbf8355165d34063be390a206a85c978e5f28746f5d905162338ef709"
 }
