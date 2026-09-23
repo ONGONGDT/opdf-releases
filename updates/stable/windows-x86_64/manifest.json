@@ -1,0 +1,5 @@
+{
+  "payload": "{\"schema_version\":1,\"channel\":\"stable\",\"release\":{\"version\":\"1.0.0\",\"published_at\":\"2026-09-23T11:01:05Z\",\"minimum_supported_version\":null,\"minimum_updater_schema\":null},\"targets\":[{\"os\":\"windows\",\"arch\":\"x86_64\",\"package_type\":\"inno_setup\",\"url\":\"https://github.com/ONGONGDT/opdf-releases/releases/download/v1.0.0/360PDF-Setup-1.0.0-windows-x86_64.exe\",\"size\":18809841,\"sha256\":\"fbea78f13257b468f2bc7ddb9e7478c796e6702ed4bdfc96699e3883de91fd4b\",\"publisher_id\":\"release-key-2026-a\"}],\"release_notes_url\":\"https://raw.githubusercontent.com/ONGONGDT/opdf-releases/main/notes/v1.0.0.md\"}",
+  "key_id": "release-key-2026-a",
+  "signature": "5a210ce34ef5e410b13e3125a6f69b896878f4246e715a6cd5db596029cfd2abadaf13f600f7752f869d7aab8d01da816058ac2093b21d0504bb53e55985c10d"
+}
